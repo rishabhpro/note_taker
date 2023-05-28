@@ -51,7 +51,7 @@ The Note Taker application relies on the following npm packages:
 
 ## Deployment
 
-The Note Taker application is deployed on GitHub Pages and can be accessed at [https://rishabhpro.github.io/note_taker](https://rishabhpro.github.io/note_taker).
+TODO: Deploy the project into GitHub Pages.
 
 ## Contributing
 
